@@ -1,0 +1,26 @@
+*{
+    background-color: #ebecf2;
+}
+
+.btn{
+    background-color: rgb(69, 69, 162) ;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    color: rgb(69, 69, 162) ;
+    background-color: white;
+    transition: 500ms;
+    border: 1px solid grey;
+}
+
+.box{
+
+    box-shadow: 3px 1px 9px 0px rgba(0,0,0,0.75);
+}
+
+.box:hover{
+    box-shadow: 3px 2px 23px 0px rgba(0,0,0,0.75);
+    transition: 500ms;
+}
